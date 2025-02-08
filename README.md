@@ -1,6 +1,6 @@
 # Eduardo Albuquerque
 
-Cursando o curso **Analise e Desenvolvimento de Sistemas** no 3º semestre.
+Cursando o curso **Analise e Desenvolvimento de Sistemas** no 5º semestre.
 
 ## Linguagens - Frameworks - Tecnologias 👨‍💻
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
